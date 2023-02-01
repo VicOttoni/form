@@ -85,6 +85,8 @@ e o "valid" diz que não deve voltar a alteração padrão ao sair do input ante
 /* responsividade */
 @media (max-width: 800px) {
 .Container{
-width:50%
+    top: 70%;
+   
+width:90%
 }
 }
